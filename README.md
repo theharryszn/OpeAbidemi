@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello World 👋
 I am a software engineer from Nigeria
 
 <br>
