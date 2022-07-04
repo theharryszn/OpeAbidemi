@@ -24,6 +24,6 @@ I specialise in building fullstack web applications and mobile applications with
 
 #### PROFFESIONAL SUMMARY
 
-I'm a Software Engineer from Nigeria, I love building scalable solutions and applications that help people live better. I have advanced experience in tools like JavaScript, TypeScript ,Java, C#, Git, GitHub, Gitpod, Node and React Native. I'm a Student-centered educator with solid background in post-secondary environments. Teaching students in Software Engineering from basic undergraduate to advanced courses. Well-versed in course planning, research oversight and student mentoring.
+I love building scalable solutions and applications that help people live better. I have advanced experience in tools like JavaScript, TypeScript ,Java, C#, Git, GitHub, Gitpod, Node and React Native. I'm a Student-centered educator with solid background in post-secondary environments. Teaching students in Software Engineering from basic undergraduate to advanced courses. Well-versed in course planning, research oversight and student mentoring.
 
 
